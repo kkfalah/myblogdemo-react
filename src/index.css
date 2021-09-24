@@ -58,7 +58,7 @@
 
 /* blog details page */
 .blog-details h2 {
-  font-size: 20px;
+  font-size: 32px;
   color: #f1356d;
   margin-bottom: 10px;
 }
@@ -69,8 +69,8 @@
   background: #f1356d;
   color: #fff;
   border: 0;
-  padding: 8px;
-  border-radius: 8px;
+  padding: 6px 8px;
+  border-radius: 4px;
   cursor: pointer;
 }
 
